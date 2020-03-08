@@ -1,2 +1,2 @@
 #study_remote_Repo
-confirm regist ssh key
+#test regist ssh key
