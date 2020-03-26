@@ -1,0 +1,20 @@
+From bf6240d532837629ae921e0f22d8754042896fec Mon Sep 17 00:00:00 2001
+From: usakame <quirkoffate77@outlook.jp>
+Date: Thu, 12 Mar 2020 02:55:46 +0900
+Subject: [PATCH 2/2] after drop
+
+---
+ after_drop.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 after_drop.txt
+
+diff --git a/after_drop.txt b/after_drop.txt
+new file mode 100644
+index 0000000..4c1e2f7
+--- /dev/null
++++ b/after_drop.txt
+@@ -0,0 +1 @@
++after drop
+-- 
+2.25.0.windows.1
+

@@ -1,0 +1,29 @@
+From 6ecd98de45ae83a2f6a1f25743eb2f1cc6ea71a8 Mon Sep 17 00:00:00 2001
+From: usakame <quirkoffate77@outlook.jp>
+Date: Thu, 12 Mar 2020 02:47:52 +0900
+Subject: [PATCH 1/2] test squash
+
+---
+ squ.txt    | 1 +
+ squash.txt | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 squ.txt
+ create mode 100644 squash.txt
+
+diff --git a/squ.txt b/squ.txt
+new file mode 100644
+index 0000000..62a838d
+--- /dev/null
++++ b/squ.txt
+@@ -0,0 +1 @@
++rebase i squ two
+diff --git a/squash.txt b/squash.txt
+new file mode 100644
+index 0000000..e00d677
+--- /dev/null
++++ b/squash.txt
+@@ -0,0 +1 @@
++rebase i squ
+-- 
+2.25.0.windows.1
+
